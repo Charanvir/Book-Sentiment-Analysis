@@ -6,7 +6,9 @@
 
 This program takes a book (text file) and does analysis on it, through multiple files. It checks the sentiment of every
 chapter, allowing the reader to understand the overall context of the book before reading. Another file uses regex to
-break down the book into separate parts and perform analysis on individual chapters.
+break down the book into separate parts and perform analysis on individual chapters. 
+
+The analysis was done via jupyter labs and is done in the files with the extension .ipynb.
 
 #### Dependencies
 
